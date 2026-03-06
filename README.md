@@ -1,33 +1,38 @@
 # Olá, eu sou o João Victor! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=535&lines=Front-End+Developer+em+formação;Focado+em+HTML,+CSS,+JavaScript+e+React" alt="Typing SVG" />
 </p>
 
 ### 💫 Sobre Mim
-- 🔭 Atualmente estou trabalhando em **LifeSync**
-- 🌱 Estou aprendendo **JavaScript e seus frameworks**
+- 🔭 Atualmente trabalhando no meu portfólio e projetos de front-end
+- 🌱 Estudando JavaScript, React e boas práticas de desenvolvimento
 - 👯 Procuro colaborar em **Projetos Open Source**
-- 📫 Como me encontrar: **(https://my-portfolio-flxi.vercel.app/)**
+- 📫 Portfólio: https://my-portfolio-flix.vercel.app
+---
+
+### 🚀 Stack Principal
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🛠️ Ferramentas
 
-#### Linguagens
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E )
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white )
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 )
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Frameworks & Bibliotecas
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB )
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white )
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white )
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white )
+---
 
-#### Ferramentas & Cloud
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white )
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white )
+### 📚 Atualmente Aprendendo
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -50,9 +55,8 @@
 
 ### 🌐 Redes Sociais
 <p align="left">
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SEU_LINKEDIN" height="30" width="40" /></a>
-<a href="https://twitter.com/SEU_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SEU_TWITTER" height="30" width="40" /></a>
-<a href="https://instagram.com/SEU_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SEU_INSTAGRAM" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joão-victor-130b36262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LINKEDIN" height="30" width="40" /></a>
+<a href="https://instagram.com/joao.victor2602/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM" height="30" width="40" /></a>
 </p>
 
 ---
