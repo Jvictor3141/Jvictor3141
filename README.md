@@ -47,6 +47,6 @@
 
 ###
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvictor3141&theme=dark)
   
 ###
