@@ -47,10 +47,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jvictor3141/Jvictor3141/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jvictor3141/Jvictor3141/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Jvictor3141/Jvictor3141/output/pacman-contribution-graph.svg">
-</picture>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ###
