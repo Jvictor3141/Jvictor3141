@@ -46,7 +46,7 @@
 </div>
 
 ###
-<div align="center">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-</div>
+  
 ###
