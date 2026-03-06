@@ -1,55 +1,70 @@
-<h1 align="center">Hi 👋! My name is João Victor</h1>
+# Olá, eu sou o João Victor! 👋
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</p>
 
-<h2 align="left">I'm a front-end developer in career transition, coming from the industrial sector, focused on building modern, functional, and well-structured interfaces.<br><br>Currently, I study and develop projects using React, JavaScript, HTML, CSS, and Tailwind CSS, always prioritizing real-world practice, clean code, and constant evolution.</h2>
+### 💫 Sobre Mim
+- 🔭 Atualmente estou trabalhando em **[Seu Projeto Atual]**
+- 🌱 Estou aprendendo **JavaScript e seus frameworks**
+- 👯 Procuro colaborar em **Projetos Open Source**
+- 💬 Pergunte-me sobre **[Suas principais habilidades]**
+- 📫 Como me encontrar: **(https://my-portfolio-flxi.vercel.app/)**
 
-###
+---
 
-<h3 align="left">- 🔭 I am currently studying Computer Science.<br>- 🌱 I'm deepening my knowledge of frontend.<br>- 🤔 I seek to collaborate on open-source projects that utilize modern technologies.<br>- 💬 Let's work together and improve ourselves in a exchange knowledge.<br>- 📫 How to find me: jvcajado2.0@gmail.com</h3>
+### 🚀 Tecnologias & Ferramentas
 
-###
+#### Linguagens
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E )
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white )
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 )
 
-<h3 align="left">Tech:</h3>
+#### Frameworks & Bibliotecas
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB )
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white )
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white )
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white )
 
-###
+#### Ferramentas & Cloud
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white )
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white )
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+---
 
-###
+### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://www.instagram.com/joao.victor2602/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="www.linkedin.com/in/joão-victor-130b36262" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jvictor3141&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jvictor3141&layout=compact&theme=radical" />
+</p>
 
-###
-<div align="center">
-  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvictor3141&theme=dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jvictor3141&theme=react-dark" alt="Activity Graph" />
+</p>
 
-###
+---
+
+### 🌐 Redes Sociais
+<p align="left">
+<a href="https://linkedin.com/in/SEU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SEU_LINKEDIN" height="30" width="40" /></a>
+<a href="https://twitter.com/SEU_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SEU_TWITTER" height="30" width="40" /></a>
+<a href="https://instagram.com/SEU_INSTAGRAM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SEU_INSTAGRAM" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🏆 Troféus do GitHub
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Jvictor3141&theme=radical&no-frame=true&column=4" />
+</p>
+
+---
+
+<p align="center">
+  <i>"O código é como humor. Quando você tem que explicar, é ruim."</i> - Cory House
+</p>
