@@ -5,10 +5,9 @@
 </p>
 
 ### 💫 Sobre Mim
-- 🔭 Atualmente estou trabalhando em **[Seu Projeto Atual]**
+- 🔭 Atualmente estou trabalhando em **LifeSync**
 - 🌱 Estou aprendendo **JavaScript e seus frameworks**
 - 👯 Procuro colaborar em **Projetos Open Source**
-- 💬 Pergunte-me sobre **[Suas principais habilidades]**
 - 📫 Como me encontrar: **(https://my-portfolio-flxi.vercel.app/)**
 
 ---
