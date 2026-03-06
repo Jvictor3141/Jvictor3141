@@ -47,8 +47,9 @@
 
 ###
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jvictor3141&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jvictor3141&theme=dark)
   
 ###
