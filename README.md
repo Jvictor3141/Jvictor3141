@@ -8,7 +8,7 @@
 - 🔭 Atualmente trabalhando no meu portfólio e projetos de front-end
 - 🌱 Estudando JavaScript, React e boas práticas de desenvolvimento
 - 👯 Procuro colaborar em **Projetos Open Source**
-- 📫 Portfólio: https://my-portfolio-flix.vercel.app
+- 📫 Portfólio: [https://my-portfolio-flix.vercel.app](https://my-portfolio-flxi.vercel.app/)
 ---
 
 ### 🚀 Stack Principal
