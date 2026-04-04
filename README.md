@@ -55,7 +55,7 @@
 
 ### 🌐 Redes Sociais
 <p align="left">
-<a href="https://linkedin.com/in/joão-victor-130b36262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LINKEDIN" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jvictor3141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LINKEDIN" height="30" width="40" /></a>
 <a href="https://instagram.com/joao.victor2602/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="INSTAGRAM" height="30" width="40" /></a>
 </p>
 
