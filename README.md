@@ -1,7 +1,7 @@
 # Olá, eu sou o João Victor! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=535&lines=Front-End+Developer+em+formação;Focado+em+HTML,+CSS,+JavaScript+e+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=535&lines=Transformando+ideias+em+realidade.;Uma+linha+de+código+por+vez." alt="Typing SVG" />
 </p>
 
 ### 💫 Sobre Mim
